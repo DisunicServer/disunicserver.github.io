@@ -1,0 +1,46 @@
+{
+    "status": "ok",
+    "totalResults": 5,
+    "articles": [
+    {
+    "source": {
+    "id": "Disunic39890274.GET",
+    "name": "Disunic Corporation"
+    },
+    "author": "Disunic X Wikimedia",
+    "title": "Microsoft Corporation",
+    "url": "https://en.m.wikipedia.org/wiki/Microsoft",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Building92microsoft.jpg/260px-Building92microsoft.jpg"
+    },
+    {
+    "source": {
+    "id": "Disunic39890274.GET",
+    "name": "Disunic Corporation"
+    },
+    "author": "Disunic  X Wikimedia",
+    "title": "Vladimir Putin",
+    "url": "https://en.wikipedia.org/wiki/Vladimir_Putin",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Vladimir_Putin_17-11-2021_%28cropped%29.jpg/220px-Vladimir_Putin_17-11-2021_%28cropped%29.jpg"
+    },
+    {
+    "source": {
+    "id": "Disunic39890274.GET",
+    "name": "Disunic Corporation"
+    },
+    "author": "Disunic  X Wikimedia",
+    "title": "Volodymyr Zelenskyy",
+    "url": "https://en.wikipedia.org/wiki/Volodymyr_Zelenskyy",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Volodymyr_Zelensky_Official_portrait.jpg/220px-Volodymyr_Zelensky_Official_portrait.jpg"
+    },
+    {
+    "source": {
+    "id": "Disunic39890274.GET",
+    "name": "Disunic Corporation"
+    },
+    "author": "Disunic  X Wikimedia",
+    "title": "Kali Linux",
+    "url": "https://en.wikipedia.org/wiki/Kali_Linux",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/VirtualBox_Kali_Linux_21.01_x64_Desktop_GER_26_02_2021_16_59_25.png/275px-VirtualBox_Kali_Linux_21.01_x64_Desktop_GER_26_02_2021_16_59_25.png"
+    }
+    ]
+    }
